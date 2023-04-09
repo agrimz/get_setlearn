@@ -266,15 +266,15 @@ margin-top: 19px;
 @keyframes changeimg{
 
     0%{
-        background-image: url();
+        background-image: url(img2.jpg);
     }
 
     50%{
-        background-image: url();
+        background-image: url(img2.jpg);
     }
 
     100%{
-        background-image: url();
+        background-image: url(img2.jpg);
     }
 
 
